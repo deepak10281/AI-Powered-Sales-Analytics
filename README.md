@@ -175,3 +175,5 @@ If you found this project useful, please ⭐ star this repository and share it w
 # 📄 License
 
 This project is licensed under the MIT License.
+<img width="1337" height="739" alt="Screenshot (1157)" src="https://github.com/user-attachments/assets/dd612e26-5367-425c-be46-804d9dd2a192" />
+<img width="1337" height="746" alt="Screenshot (1158)" src="https://github.com/user-attachments/assets/4f5a1cb7-4686-4c77-a366-cb65a4b13f1c" />
